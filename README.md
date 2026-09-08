@@ -17,7 +17,5 @@
   ![Static Badge](https://img.shields.io/badge/latex-F0F0F0?style=for-the-badge&logo=latex&logoColor=%23008080)
 
 📄 And you can find my CV [here](KaliMcDougall_UVic_CV.pdf).
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact&langs_count=3)
   
   <img src="./space_cat.gif" width="9%" height="9%"/><img src="./flags.gif" width="8%" height="8%"/> <img src="./nyan_satellite.gif" width="11%" height="11%"/>
