@@ -18,6 +18,6 @@
 
 📄 And you can find my CV [here](KaliMcDougall_UVic_CV.pdf).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact&langs_count=8&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
   <img src="./space_cat.gif" width="9%" height="9%"/><img src="./flags.gif" width="8%" height="8%"/> <img src="./nyan_satellite.gif" width="11%" height="11%"/>
